@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Paseo
+Comment=Local multi-model coding workspace
+Exec=paseo-desktop
+Terminal=false
+Categories=Development;
+StartupNotify=true

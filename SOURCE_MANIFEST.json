@@ -50,6 +50,24 @@
       "path": "sysinfo.py",
       "source_sha256": "a5bf5689c4eaf2597a0e48724c051eacfaa1ef452f839e5278a1168f055a7811",
       "export_sha256": "a5bf5689c4eaf2597a0e48724c051eacfaa1ef452f839e5278a1168f055a7811"
+    },
+    {
+      "source": "<workspace>/.local/bin/paseo-desktop",
+      "path": "bin/paseo-desktop",
+      "source_sha256": "75bf7cb68c0cf8c397e7c4c15f9c15f19380f7d2cb0a9a2a05eda03a4430b135",
+      "export_sha256": "75bf7cb68c0cf8c397e7c4c15f9c15f19380f7d2cb0a9a2a05eda03a4430b135"
+    },
+    {
+      "source": "<workspace>/.local/share/applications/paseo.desktop",
+      "path": "desktop/paseo.desktop",
+      "source_sha256": "90bf434250d20f012f0c31133cfc23780779af3ec9cecde739f96b9bef3a2367",
+      "export_sha256": "512141b2b427d04cb14d95eed5d61cb2f8623be6c7e7c4f0df45005e46f81187"
+    },
+    {
+      "source": "<workspace>/.local/share/applications/claude-code-url-handler.desktop",
+      "path": "desktop/claude-code-url-handler.desktop",
+      "source_sha256": "9688820caaf928e2d58577c24a01fbfa444c55090799591986429e1bb070af89",
+      "export_sha256": "8a838cad20f3726462bb47569282935564fa2f2786dff5762afcb80e7ab11dbd"
     }
   ],
   "adaptations": "Toolkit copies may adapt absolute paths or remove optional cross-repo notification dependencies; source and export hashes expose this.",

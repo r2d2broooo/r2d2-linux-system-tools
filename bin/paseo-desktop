@@ -1,0 +1,4 @@
+#!/bin/bash
+export PATH="$HOME/.local/bin:$HOME/.nvm/versions/node/v26.1.0/bin:/usr/local/bin:/usr/bin:/bin"
+export PASEO_HOME="$HOME/.paseo"
+exec "$HOME/.local/share/paseo/Paseo-x86_64.AppImage" "$@"
