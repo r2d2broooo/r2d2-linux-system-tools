@@ -1,0 +1,57 @@
+{
+  "exported_at": "2026-11-05T12:03:55Z",
+  "source_home": "<workspace>",
+  "repo": "r2d2-linux-system-tools",
+  "files": [
+    {
+      "source": "<workspace>/backup.sh",
+      "path": "scripts/backup.sh",
+      "source_sha256": "a3d4fd65a3b75a0dda53b09ccb8b0b33b58f646d6189300a055b25e2ad57e146",
+      "export_sha256": "dc93a9a962f587cdb3624a691774c593628e6a4a9ddf41fcf29acbd471a1f15d"
+    },
+    {
+      "source": "<workspace>/checkpoint.sh",
+      "path": "scripts/checkpoint.sh",
+      "source_sha256": "1936b5160b6880ff29a8d6923a67634742e9ec7468a248946dbdaadbad77bbe2",
+      "export_sha256": "9af31e423c3c259600f19bfcd076095cd5a075e791a867df0a5780e2aacc2262"
+    },
+    {
+      "source": "<workspace>/desktop-control-setup.sh",
+      "path": "scripts/desktop-control-setup.sh",
+      "source_sha256": "b0100b535afa77213ee9fea5175a15e927af351e28e000dacd4c39a0e0b3ef48",
+      "export_sha256": "b0100b535afa77213ee9fea5175a15e927af351e28e000dacd4c39a0e0b3ef48"
+    },
+    {
+      "source": "<workspace>/desktop-control-setup2.sh",
+      "path": "scripts/desktop-control-setup2.sh",
+      "source_sha256": "dc6be2ee46622f85c13f12a234c397d325ee7193f21f6978f22f7dbacd5d54d7",
+      "export_sha256": "dc6be2ee46622f85c13f12a234c397d325ee7193f21f6978f22f7dbacd5d54d7"
+    },
+    {
+      "source": "<workspace>/install-nvidia.sh",
+      "path": "scripts/install-nvidia.sh",
+      "source_sha256": "ee863485a59763dd49e623cb0c77f58195fdf36a2ceeb346aa116c033c02df04",
+      "export_sha256": "ee863485a59763dd49e623cb0c77f58195fdf36a2ceeb346aa116c033c02df04"
+    },
+    {
+      "source": "<workspace>/make_montage.py",
+      "path": "scripts/make_montage.py",
+      "source_sha256": "ddb0fbeb9e2ff99139e62618f126439568df0e9a0858bc79c10040e9f241e33a",
+      "export_sha256": "278f214c6daf735cb8274ce4210f21c697383a327ad3b6096e64485f9df78dce"
+    },
+    {
+      "source": "<workspace>/RESTORE.md",
+      "path": "historical/RESTORE.md",
+      "source_sha256": "0fc870b535e792b03b4e70c61bcdbd6944ec8a31e9c84cde51216bfe15580078",
+      "export_sha256": "5d8c80501b9fa9849bc08fd42ce0647e1f7647ceb698c404f317bee79353dd3e"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/sysinfo.py",
+      "path": "sysinfo.py",
+      "source_sha256": "a5bf5689c4eaf2597a0e48724c051eacfaa1ef452f839e5278a1168f055a7811",
+      "export_sha256": "a5bf5689c4eaf2597a0e48724c051eacfaa1ef452f839e5278a1168f055a7811"
+    }
+  ],
+  "adaptations": "Toolkit copies may adapt absolute paths or remove optional cross-repo notification dependencies; source and export hashes expose this.",
+  "privacy": "Export sanitized: credentials/private runtime state excluded; personal email, workstation paths and literal IP addresses removed."
+}
